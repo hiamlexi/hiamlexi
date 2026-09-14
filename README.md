@@ -2,7 +2,7 @@
 
 ## 💫 About Me:
 
-I’m **Linh Pham**, a passionate **AI Engineer** and problem-solver who loves building **intelligent, scalable, and user-friendly systems**.  
+I’m **Linnnn**, a passionate **AI Engineer** and problem-solver who loves building **intelligent, scalable, and user-friendly systems**.  
 
 ### 🚀 About Me  
 - 🔭 Currently working on: **Designing and deploying customized AI agents with a focus on NLP**  
